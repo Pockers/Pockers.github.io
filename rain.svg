@@ -3,7 +3,6 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Simple Rain Effect</title>
   <style>
     body {
       margin: 0;
@@ -21,7 +20,7 @@
     }
 
     .rain-line {
-      stroke: #ecf0f1; /* Light gray/white color for the raindrops */
+      stroke: #ff0000; /* Light gray/white color for the raindrops */
       stroke-width: 2;
       stroke-linecap: round;
       animation: rain-fall 1s linear infinite;
